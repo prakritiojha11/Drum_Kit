@@ -19,7 +19,7 @@
 * HTML <br>
 * CSS <br>
 * JavaScript <br>
-
+* The drum sounds were obtained from FreeSound.org.
 
 # :rocket: **Features**
 
