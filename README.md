@@ -4,7 +4,9 @@
 <br>
 
 
-**The Drum Kit project is a simple web application that allows users to play drums by clicking on buttons or pressing corresponding keys on their keyboard. It was built using HTML, CSS, and JavaScript, and features different drum sounds and animation effects when the buttons are clicked. The application is responsive and can be used on various devices. **
+**The Drum Kit project is a simple web application that allows users to play drums by clicking on buttons or pressing corresponding keys on their keyboard. It was built using HTML, CSS, and JavaScript, and features different drum sounds and animation effects when the buttons are clicked. The application is responsive and can be used on various devices.**
+
+
 
 # :thinking: **How to Play**
  *To play the Drum Kit, you can either click on the buttons with your mouse or press the corresponding keys on your keyboard. Each button represents a different drum sound, and pressing it will play the sound and also trigger an animation effect on the button. You can experiment with different combinations of buttons to create your own beats and rhythms. Enjoy!*
